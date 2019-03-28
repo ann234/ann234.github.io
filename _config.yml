@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Ajeino"
-  avatar           : "/assets/images/ThinkingCat.jpg"
+  avatar           : /assets/images/ThinkingCat.jpg
   bio              : "다른 내일을 원한다면 오늘을 바꾸자"
   location         : "Somewhere"
   email            : "pjh.imlab@gmail.com"
