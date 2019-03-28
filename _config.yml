@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ajeino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "다른 내일을 원한다면 오늘을 바꾸자"
   location         : "Somewhere"
-  email            :
+  email            : "pjh.imlab@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
